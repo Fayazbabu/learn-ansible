@@ -6,3 +6,9 @@
     package:
       name: nginx
       state: present
+
+    - name: start nginx
+      service:
+        name: nginx
+        stste: started
+        enable: yes
