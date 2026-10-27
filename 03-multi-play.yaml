@@ -4,11 +4,11 @@
   tasks:
   - name: PLAY-1 and TASK-1
     debug:
-      mes: :"Hello from PLAY-1 TASK-1"
+      msg: :"Hello from PLAY-1 TASK-1"
 
   - name: PLAY-1 and TASK-2
     debug:
-      mes: :"Hello from PLAY-1 TASK-2"
+      msg: :"Hello from PLAY-1 TASK-2"
    
 - name: PLAY-2
   hosts: local
@@ -16,9 +16,9 @@
   tasks:
   - name: PLAY-2 and TASK-1
     debug:
-      mes: :"Hello from PLAY-2 TASK-1"
+      msg: :"Hello from PLAY-2 TASK-1"
 
   - name: PLAY-2 and TASK-2
     debug:
-      mes: :"Hello from PLAY-2 TASK-2"
+      msg: :"Hello from PLAY-2 TASK-2"
    
