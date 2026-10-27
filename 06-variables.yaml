@@ -2,15 +2,14 @@
   hosts: local
   connection: local
   vars:
-    property: "10acers"
+    property: "100acers"
   tasks:
   - name: print the vars
     debug:
-    msg: "hi, I got {{ property }} from my father"
+      msg: "Hi, I got {{ property }} from my father"
 
   - name: print the vars again 
-  vars:
-    property: "10acers" 
-  debug:
-    msg: "hi, I got {{ property }} from my father"
-
+    vars:
+     property: "10acers" 
+    debug:
+     msg: "hi, I got {{ property }} from my father"
