@@ -1,0 +1,34 @@
+- first_name:"Fayaz Babu"   
+  lastName: "Shaik"
+  dob: 01-01-10
+  # - is fo list
+  addresses:
+  - type: parmanent
+    dorNo: 1-234,
+    streetName: Gandhi Nagr
+    city: Guntur
+  - type: temporary
+    dorNo: 1-234,
+    streetName: Gandhi Nagr
+    city: Guntur
+  skills:
+    OS: Linux
+    IDE: VsCode
+    CM: ansible
+- first_name:"Fayaz Babu"   
+  lastName: "Shaik"
+  dob: 01-01-10
+  # - is fo list
+  addresses:
+  - type: parmanent
+    dorNo: 1-234,
+    streetName: Gandhi Nagr
+    city: Guntur
+  - type: temporary
+    dorNo: 1-234,
+    streetName: Gandhi Nagr
+    city: Guntur
+  skills:
+    OS: Linux
+    IDE: VsCode
+    CM: ansible

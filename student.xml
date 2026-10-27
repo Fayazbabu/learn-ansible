@@ -1,0 +1,17 @@
+<Student>
+    <firstName>FayazBabu</firstNameirst>
+    <lastName>Sk</lastName>
+    <dob>27-06-2002</dob>
+    <addresses>
+        <address type="temporary">
+            <doorNo>21-48</doorNo>
+            <streetName>Gandhi Nagar</streetName>
+            <city>Guntur</city>
+        </address>
+        <address type="parmanent">
+            <doorNo>21-48</doorNo>
+            <streetName>Gandhi Nagar</streetName>
+            <city>Guntur</city>
+        </address>
+    </addresses>
+</Student>
